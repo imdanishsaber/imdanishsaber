@@ -23,4 +23,6 @@ Seeking to become the next front end developer on any web development team thatâ
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ujjalzaman&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ujjalzaman)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ujjalzaman)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/imdanishsaber/github-readme-stats)
