@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=2&height=350&section=header&text=Danish%20Saber&fontSize=70&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer&descAlignY=55&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=wave&color=ffc008&height=310&section=header&text=Danish%20Saber&fontSize=70&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer&descAlignY=55&descAlign=51)
 
 ### Hi there 👋, This is Danish Saber
 #### I'm passionate Full Stack Developer
