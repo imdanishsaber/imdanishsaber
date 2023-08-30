@@ -4,7 +4,7 @@
 #### I'm passionate Full Stack Developer
 I am a professional software engineer with the skills necessary to excel as a proficient web application developer, whether it's on the front end or back end. I am actively seeking the opportunity to join a web development team as their next front-end developer.
 
-With a passion for innovation, I specialize in creating and maintaining small and large scale web application within the recruiting industry as an innovative front-end developer.
+Driven by a passion for innovation, I specialize in crafting and managing both small and large-scale web applications within the realm of the recruiting industry, showcasing my skills as an innovative front-end developer.
 
 ##### Aspiring to join any web development team as their upcoming front-end developer!
 #### Skills & Experience
